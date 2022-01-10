@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://emcydeveloper.github.io/csb-09krr/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://emcydeveloper.github.io/csb-09krr/static/js/main.4c5e229d.chunk.js",
+    "main.js.map": "https://emcydeveloper.github.io/csb-09krr/static/js/main.4c5e229d.chunk.js.map",
+    "runtime-main.js": "https://emcydeveloper.github.io/csb-09krr/static/js/runtime-main.6895b181.js",
+    "runtime-main.js.map": "https://emcydeveloper.github.io/csb-09krr/static/js/runtime-main.6895b181.js.map",
+    "static/js/2.d8a2734b.chunk.js": "https://emcydeveloper.github.io/csb-09krr/static/js/2.d8a2734b.chunk.js",
+    "static/js/2.d8a2734b.chunk.js.map": "https://emcydeveloper.github.io/csb-09krr/static/js/2.d8a2734b.chunk.js.map",
+    "index.html": "https://emcydeveloper.github.io/csb-09krr/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://emcydeveloper.github.io/csb-09krr/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d8a2734b.chunk.js.LICENSE.txt": "https://emcydeveloper.github.io/csb-09krr/static/js/2.d8a2734b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6895b181.js",
+    "static/js/2.d8a2734b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4c5e229d.chunk.js"
+  ]
+}
